@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Joaquin Brassinne
+# 👋 ¡Hola! Soy Brassinne Joaquin 🇦🇷
 
-Hola Bienvenido a mi perfil, Soy Brassinne Joaquin un simple pibe de 21 años Argentino apasionado en este mundo del desarrollo de Software en el cual empece a indagar en el año 2022.
+Hola Bienvenido a mi perfil, Soy Brassinne Joaquin un simple pibe de 21 años Argentino y Cordobes en el cual soy un apasionado en este mundo del desarrollo de Software en el que empece a indagar por hobby en el año 2022 y a dia de hoy quiero dedicarme a esto!. 
 
 ## 🚀 Sobre mí
 
@@ -10,22 +10,34 @@ Me apasiona resolver problemas y crear soluciones innovadoras que puedan tener u
 
 ### 🛠️ Habilidades
 
-- **Lenguajes de programación**: Java, JavaScript, HTML, CSS
+- **Lenguajes de programación**: Java, JavaScript, HTML, CSS, Python
 - **Frameworks**: Spring Boot, Bootstrap
 - **Bases de datos**: MySQL, PostgreSQL
 - **Herramientas y plataformas**: Git, Docker, Postman, Swagger
-- **Otros conocimientos**: JPA, Hibernate, REST APIs, Microservicios, Spring Security
+- **Otros conocimientos**: JPA, Hibernate, REST APIs, Microservicios, Spring Security, Spring Cloud
 
+### 💼 Experiencia
+
+- **Proyecto en equipo con No Country**: Trabajé en un equipo para desarrollar una plataforma de gestión de tareas utilizando Spring Boot y React.
+- **Desarrollador de API REST**: Creé y mantuve diversas APIs RESTful para proyectos personales y colaborativos.
+- **Desarrollador de Microservicios**: Creé y mantuve microservicios para proyectos personales.
+  
 ## 🌟 Proyectos Destacados
 
 ### [Portafolio](https://joaquinbrassinne.github.io/Portafolio-/)
-Mi portafolio (Lo tengo que actualizar je)
+Un portfolio responsive diseñado con HTML, CSS y Bootstrap para mostrar mis proyectos y habilidades. (Lo tengo que actualizar je)
 
 ### [Full Stack Java](https://github.com/joaquinBrassinne/proyecto-final)
 Link al video de Youtube: https://youtu.be/c6iuPgJYi10
 
 ### [Lista de Tareas con Angular](https://github.com/joaquinBrassinne/lista_tareas_Angular)
 Lista de Tareas realizada con Angular y typeScript
+
+### [Microservicios-tienda-productos-tecnologicos](https://github.com/joaquinBrassinne/final-tp-microservices)
+Proyecto de una tienda de electrodomésticos en la cual existen 3 microservicios los cuales son:
+🚩Microservicio de productos: Se encarga de gestionar la información de los electrodomésticos disponibles en la plataforma.
+🚩Microservicio del carrito de compras: Este microservicio maneja, el carrito de compras de los usuarios. Éstos podrán, agregar y quitar artículos de la lista de electrodomésticos de su carrito de compras.
+🚩Microservicios de la venta: Se encarga de registrar cada venta.
 
 ### [Pasos firmes](https://pasos-deploy-front.vercel.app/login)
 Proyecto realizado en la simulacion de NoCountry, Trabaje 1 mes con un equipo de 7 integrantes en la cual desarrollamos un banco de protesis para que personas con discapacidad tengan una oportunidad mas de encontrar estos elementos con son muy escasos. 
