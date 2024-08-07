@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Joaquin Brassinne
 
-Hola Bienvenido a mi perfil, Soy Brassinne Joaquin un simple pibe Argentino apasionado en este mundo del desarrollo de Software en el cual 
+Hola Bienvenido a mi perfil, Soy Brassinne Joaquin un simple pibe de 21 años Argentino apasionado en este mundo del desarrollo de Software en el cual empece a indagar en el año 2022.
 
 ## 🚀 Sobre mí
 
