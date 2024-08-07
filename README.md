@@ -35,8 +35,11 @@ Lista de Tareas realizada con Angular y typeScript
 
 ### [Microservicios-tienda-productos-tecnologicos](https://github.com/joaquinBrassinne/final-tp-microservices)
 Proyecto de una tienda de electrodomésticos en la cual existen 3 microservicios los cuales son:
+
 🚩Microservicio de productos: Se encarga de gestionar la información de los electrodomésticos disponibles en la plataforma.
+
 🚩Microservicio del carrito de compras: Este microservicio maneja, el carrito de compras de los usuarios. Éstos podrán, agregar y quitar artículos de la lista de electrodomésticos de su carrito de compras.
+
 🚩Microservicios de la venta: Se encarga de registrar cada venta.
 
 ### [Pasos firmes](https://pasos-deploy-front.vercel.app/login)
