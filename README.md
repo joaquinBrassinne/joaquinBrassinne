@@ -54,9 +54,9 @@ Proyecto de una tienda de electrodomésticos en la cual existen 3 microservicios
 🚩Microservicios de la venta: Se encarga de registrar cada venta.
 
 ### [Pasos firmes](https://pasos-deploy-front.vercel.app/login)
-Proyecto realizado en la simulacion de NoCountry, Trabaje 1 mes con un equipo de 7 integrantes en la cual desarrollamos un banco de protesis para que personas con discapacidad tengan una oportunidad mas de encontrar estos elementos con son muy escasos. 
-En este proyecto me toco liderar el equipo de BackEnd y realizamos todas las funcionalidades como crear un producto, usuario, Login, comentarios en las publicaciones, favoritos y muchas funcionalidades mas.
-La parte del Back End fue desarrollada con Tecnologias como Java SpringBoot, MySQL, Postman, Swagger, git
+Proyecto realizado en la simulacion de NoCountry, Trabaje 1 mes con un equipo de 7 integrantes en la cual desarrollamos un banco de protesis para que personas con discapacidad tengan una oportunidad mas de encontrar estos elementos que son muy escasos. 
+En este proyecto me toco liderar el equipo de BackEnd y realizamos todas las funcionalidades como crear un producto, usuario, Login, comentarios en las publicaciones, respuestas a estos comentarios, agregar productos a favoritos y muchas funcionalidades mas.
+La parte del Back End fue desarrollada con Tecnologias como Java SpringBoot, MySQL, Postman, Swagger
 
 ## 📫 CONTACTO
 
