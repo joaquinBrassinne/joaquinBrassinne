@@ -26,7 +26,8 @@ Me apasiona resolver problemas y crear soluciones innovadoras que puedan tener u
 
 ### 💼 EXPERIENCIA
 
-- **Proyecto en equipo con No Country**: Trabajé en un equipo para desarrollar una plataforma de gestión de tareas utilizando Spring Boot y React.
+- **Proyecto en equipo con No Country**: Trabajé en un equipo en la parte de backend para desarrollar una plataforma de gestión de banco de ortesis utilizando Spring Boot y React.
+- **Proyecto en equipo con No Country**: Trabajé en un equipo en la parte de backend para desarrollar una web app mobile de venta de paquetes de comidas utilizando Spring Boot y React.
 - **Desarrollador de API REST**: Creé y mantuve diversas APIs RESTful para proyectos personales y colaborativos.
 - **Desarrollador de Microservicios**: Creé y mantuve microservicios para proyectos personales.
   
