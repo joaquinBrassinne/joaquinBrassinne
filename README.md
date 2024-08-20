@@ -11,7 +11,7 @@ Me apasiona resolver problemas y crear soluciones innovadoras que puedan tener u
 ### 🛠️ HABILIDADES
 
 - **Lenguajes de programación**: Java, JavaScript, HTML, CSS, Python
-- **Frameworks**: Spring Boot, Bootstrap
+- **Frameworks**: Spring , Bootstrap, Angular
 - **Bases de datos**: MySQL, PostgreSQL
 - **Herramientas y plataformas**: Git, Docker, Postman, Swagger
 - **Otros conocimientos**: JPA, Hibernate, REST APIs, Microservicios, Spring Security, Spring Cloud
