@@ -23,6 +23,7 @@ Me apasiona resolver problemas y crear soluciones innovadoras que puedan tener u
 - **Curso Full Stack Java** - Codo a Codo, 2023
 - **Curso de Spring Boot Java** - TodoCode, 2024
 - **Curso de Microservicios Spring** - TodoCode, 2024
+- **Curso de SpringSecurity** - TodoCode, 2024
 
 ### 💼 EXPERIENCIA
 
