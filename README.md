@@ -8,7 +8,7 @@ Arranqué en este mundo como hobby en 2022 y hoy me preparo para dedicarme profe
 
 ## 🚀 Sobre mí  
 
-Actualmente curso mi primer año en la carrera de desarrollo de software y me especializo en el **stack Java (Spring Boot)** y **Node.js (NestJS, TypeScript)**.  
+Actualmente curso mi segundo año en la carrera de desarrollo de software y me especializo en el **stack Java (Spring Boot)** y **Node.js (NestJS, TypeScript)**.  
 Me apasiona construir aplicaciones escalables, seguras y mantenerme en constante aprendizaje en buenas prácticas, arquitectura y patrones de diseño.  
 
 ---
@@ -16,10 +16,10 @@ Me apasiona construir aplicaciones escalables, seguras y mantenerme en constante
 ## 🛠️ Tecnologías y Habilidades  
 
 - **Lenguajes:** Java, TypeScript, JavaScript, Python, SQL  
-- **Backend:** Spring Boot, NestJS, Express  
+- **Backend:** Spring Boot, NestJS, Express, NodeJs  
 - **Frontend:** Angular, React (básico), HTML, CSS, Bootstrap  
 - **Bases de datos:** MySQL, PostgreSQL  
-- **DevOps / Herramientas:** Docker, Git, GitHub, Postman, Swagger, Kubernetes (aprendiendo)  
+- **DevOps / Herramientas:** Docker, Git, GitHub, Postman, Swagger  
 - **Otros:** REST APIs, Microservicios, JPA/Hibernate, Spring Security, Spring Cloud  
 
 ---
