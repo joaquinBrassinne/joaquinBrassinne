@@ -29,7 +29,8 @@ Me apasiona construir **APIs, microservicios y soluciones escalables** con buena
 
 - [Pasos Firmes](https://pasos-deploy-front.vercel.app/login) – Banco de prótesis (Spring Boot + React + MySQL).  
 - [Microservicios Tienda](https://github.com/joaquinBrassinne/final-tp-microservices) – 3 microservicios con Spring Boot.  
-- [Lista de Tareas Angular](https://github.com/joaquinBrassinne/lista_tareas_Angular) – To-Do App con Angular.  
+- [Lista de Tareas Angular](https://github.com/joaquinBrassinne/lista_tareas_Angular) – To-Do App con Angular.
+- [AlmaPage](https://github.com/joaquinBrassinne/almaPage) - Pagina para Cliente con React, Tailwind, Shadcn
 
 ---
 
