@@ -86,7 +86,7 @@ Busco oportunidades donde pueda seguir creciendo como desarrollador backend, par
 
 - GitHub: https://github.com/joaquinBrassinne
 - LinkedIn: https://www.linkedin.com/in/joaquinbrassinne/
-- Email: joakobrassinne@gmail.com
+- Email: joaquinbrassinne.dev@gmail.com
 
 ---
 
