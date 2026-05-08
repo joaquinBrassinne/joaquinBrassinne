@@ -1,5 +1,6 @@
 # 👋 Hola, soy Joaquín Brassinne
 
+📕Estudiante de la Tecnicatura en desarrollo de Software(3er Año)
 💻 Desarrollador Backend enfocado en construir APIs escalables, seguras y mantenibles.  
 🚀 Especializado en Java, Spring Boot, NestJS y PostgreSQL.  
 📚 Actualmente profundizando en arquitectura backend, buenas prácticas y desarrollo de software.
@@ -43,7 +44,7 @@ Desarrollo backend de funcionalidades para integración con proveedores de Whats
 - Optimización de lógica de conversaciones
 
 **Tecnologías utilizadas:**  
-Java · Spring Boot · PostgreSQL · AWS S3
+C# · .NET · PostgreSQL · AWS S3
 
 ---
 
