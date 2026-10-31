@@ -12,8 +12,8 @@ Construyo APIs y sistemas backend pensando en que escalen y que se puedan manten
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="170" src="https://TU-INSTANCIA.vercel.app/api?username=joaquinBrassinne&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="170" src="https://TU-INSTANCIA.vercel.app/api/top-langs/?username=joaquinBrassinne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-readme-stats-wine-ten-60.vercel.app/api?username=joaquinBrassinne&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-readme-stats-wine-ten-60.vercel.app/api/top-langs/?username=joaquinBrassinne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
 <p align="center">
@@ -44,73 +44,26 @@ Construyo APIs y sistemas backend pensando en que escalen y que se puedan manten
 
 ---
 
+## 🚀 Proyectos
+
+- 🏋️ **Mora** — Sistema de gestión de gimnasio **en producción** (alumnos, profesores, planes), vendido a un cliente real. Hoy en desarrollo la versión 2.0.  
+  `Go` · `PostgreSQL` · `Docker`
+- 💬 **GoCord** — Clon de Discord con chat por WebSockets, voz con WebRTC y cliente de terminal. *Repo privado, disponible a pedido.*  
+  `Go` · `WebRTC` · `Redis` · `Docker`
+- 🔐 **Alma Fitness** — Control de acceso y membresías para un gimnasio, con validación por DNI y carga de comprobantes de pago.  
+  `Java` · `Spring Boot` · `MySQL` · `Docker`
+- 🧘 **Gestión para estudio de Pilates** — Turnos con cupos limitados por día, horario y profesor, y seguimiento de pagos.  
+  `NestJS` · `TypeScript` · `PostgreSQL`
+- 🦿 **Pasos Firmes** — API REST para un banco de prótesis en No Country. Fui **líder técnico** del equipo backend (7 personas).  
+  `Java` · `Spring Boot` · `PostgreSQL`
+
+---
+
 ## 💼 Experiencia
 
-### Software Developer — N5 Now
-*Remoto · Enero – Marzo 2026*
-
-Desarrollo backend de un sistema de mensajería sobre WhatsApp Business API.
-
-- Integré los proveedores **Twilio** e **Infobip** detrás de una misma capa de servicio.
-- Propuse e implementé un **background job** que consulta el estado de los proveedores para enrutar los mensajes al que esté activo.
-- Trabajé sobre una arquitectura **CQRS + DDD** y almacenamiento de audios en **AWS S3**.
-
+**Software Developer — N5 Now** *(remoto, ene–mar 2026)*  
+Backend de mensajería sobre WhatsApp Business API: integración de Twilio e Infobip, y un background job que consulta el estado de los proveedores para enrutar al que esté activo. Arquitectura CQRS + DDD con audios en AWS S3.  
 `C# / .NET Core` · `CQRS` · `DDD` · `AWS S3`
-
----
-
-## 🚀 Proyectos destacados
-
-### 🏋️ Mora — Sistema de gestión de gimnasio *(en producción)*
-Sistema vendido e implementado para un cliente real. Gestiona alumnos, profesores y planes.
-
-- Backend en **Go**, desarrollado en equipo.
-- Hoy en desarrollo la **versión 2.0** con nuevos módulos.
-
-`Go` · `PostgreSQL` · `Docker`
-
----
-
-### 💬 GoCord — Clon de Discord en Go
-Chat en tiempo real con canales de texto y voz. *Repositorio privado, disponible a pedido.*
-
-- API REST + autenticación, chat por **WebSockets** y voz con **WebRTC** (SFU con Pion).
-- Cliente de terminal con **Bubble Tea** y cliente web estático.
-- SQL plano sin ORM, inyección de dependencias manual, contenedorizado con Docker + Redis.
-
-`Go` · `WebSockets` · `WebRTC` · `Redis` · `Docker`
-
----
-
-### 🔐 Alma Fitness — Control de acceso para gimnasio
-Sistema de gestión de socios e ingresos para un gimnasio local.
-
-- Control de acceso centralizado por **DNI**.
-- Carga de comprobantes de pago para validar la vigencia de la membresía.
-- Pasé de un modelo de stock a uno de **cargos (charges)** para simplificar la administración diaria.
-
-`Java` · `Spring Boot` · `MySQL` · `Docker`
-
----
-
-### 🧘 Gestión para estudio de Pilates
-Administración de turnos y pagos para un centro de Pilates.
-
-- Asignación de clases por día, horario y profesor con **cupos limitados**.
-- Relación entre usuarios, planes, clases y profesores.
-- Carga de comprobantes y panel del alumno con su cronograma semanal.
-
-`NestJS` · `TypeScript` · `PostgreSQL`
-
----
-
-### 🦿 Pasos Firmes — API para banco de prótesis
-Proyecto colaborativo en **No Country**.
-
-- **Líder técnico** del equipo backend (7 integrantes).
-- Diseño del modelo relacional y documentación completa con Swagger.
-
-`Java` · `Spring Boot` · `PostgreSQL`
 
 ---
 
