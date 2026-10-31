@@ -12,16 +12,12 @@ Construyo APIs y sistemas backend pensando en que escalen y que se puedan manten
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaquinBrassinne&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinBrassinne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://TU-INSTANCIA.vercel.app/api?username=joaquinBrassinne&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://TU-INSTANCIA.vercel.app/api/top-langs/?username=joaquinBrassinne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaquinBrassinne&theme=tokyonight&hide_border=true&locale=es" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaquinBrassinne&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
