@@ -1,111 +1,125 @@
-# 👋 Hola, soy Joaquín Brassinne
+# Hola, soy Joaquín Brassinne 👋
 
-Estudiante de Desarrollo de Software(3er año)
+**Backend Developer · Go · Java/Spring Boot** — Córdoba, Argentina 🇦🇷
 
-💻 Desarrollador Backend enfocado en construir APIs escalables, seguras y mantenibles.  
-🚀 Especializado en Java, Spring Boot, NestJS, Go y PostgreSQL.  
-📚 Actualmente profundizando en arquitectura backend, buenas prácticas y desarrollo de software.
+Construyo APIs y sistemas backend pensando en que escalen y que se puedan mantener. Tengo experiencia profesional integrando servicios de terceros en producción y desarrollé sistemas que hoy usan clientes reales. Estudio la Tecnicatura Superior en Desarrollo de Software (3er año).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinbrassinne/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaquinBrassinne.dev@gmail.com)
 
 ---
 
-# 🛠️ Tecnologías
+## 📊 Actividad en GitHub
 
-### Backend & Lenguajes
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,go" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaquinBrassinne&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinBrassinne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
-### Bases de Datos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joaquinBrassinne&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
-### Herramientas & DevOps
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaquinBrassinne&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaquinBrassinne/joaquinBrassinne/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/joaquinBrassinne/joaquinBrassinne/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-# 📌 Proyectos & Experiencia Destacada
+## 🛠️ Stack
 
-## 🔹 Gestión para Estudio de Pilates
-Sistema integral para la administración de un centro de Pilates, enfocado en la organización de turnos y seguimiento de pagos.
+| Área | Tecnologías |
+|---|---|
+| **Lenguajes & frameworks** | Go (Gin), Java (Spring Boot), TypeScript (NestJS) |
+| **Bases de datos** | PostgreSQL, MySQL, Redis |
+| **Arquitectura** | REST, DDD, CQRS, monolito modular, background jobs |
+| **Infra & herramientas** | Docker, AWS S3, Git, Postman, Swagger |
 
-### Lo realizado:
-- **Gestión de Turnos:** Implementación de lógica granular para asignación de clases por día, horario y profesor.
-- **Módulo de Pagos:** Sistema de carga de comprobantes por parte de los usuarios para validación administrativa.
-- **Asignación Multidimensional:** Relación entre Usuarios, Planes, Clases y Profesores con cupos limitados.
-- **Panel del Alumno:** Interfaz para que los usuarios visualicen su cronograma semanal de clases asignadas.
-
-**Tecnologías utilizadas:** NestJS · PostgreSQL · TypeScript
-
----
-
-## 🔹 Control de Acceso - Alma Fitness
-Desarrollo de un sistema de gestión de usuarios y control de ingresos para gimnasio.
-
-### Lo realizado:
-- **Validación de Identidad:** Sistema centralizado basado en DNI para el control de acceso de socios.
-- **Gestión Documental:** Implementación de carga de comprobantes de pago para asegurar la vigencia de la membresía.
-- **Simplicidad Operativa:** Transición de un sistema de stock a un modelo de **"Cargos" (Charges)** para agilizar la administración diaria.
-- **Seguimiento de Estado:** Herramientas para que el administrador verifique la situación de pagos en tiempo real.
-
-**Tecnologías utilizadas:** Java · SpringBoot · Docker · Postgress
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,nestjs,ts,postgres,mysql,redis,docker,aws,git,postman" />
+</p>
 
 ---
 
-## 🔹 Sistema de mensajería WhatsApp Business
-Desarrollo backend de funcionalidades para integración con proveedores de WhatsApp Business API.
+## 💼 Experiencia
 
-### Lo realizado:
-- Integración con Twilio e Infobip.
-- Arquitectura **CQRS + DDD**.
-- Background jobs y almacenamiento de audios en AWS S3.
-- Optimización de lógica de conversaciones.
+### Software Developer — N5 Now
+*Remoto · Enero – Marzo 2026*
 
-**Tecnologías utilizadas:** Java · Spring Boot · PostgreSQL · AWS S3
+Desarrollo backend de un sistema de mensajería sobre WhatsApp Business API.
 
----
+- Integré los proveedores **Twilio** e **Infobip** detrás de una misma capa de servicio.
+- Propuse e implementé un **background job** que consulta el estado de los proveedores para enrutar los mensajes al que esté activo.
+- Trabajé sobre una arquitectura **CQRS + DDD** y almacenamiento de audios en **AWS S3**.
 
-## 🔹 API REST para Banco de Prótesis (Pasos Firmes)
-Proyecto colaborativo desarrollado en No Country.
-
-### Lo realizado:
-- Liderazgo técnico del equipo backend (7 integrantes).
-- Diseño y optimización de base de datos relacional.
-- Documentación completa con Swagger/Postman.
-
-**Tecnologías utilizadas:** Java · Spring Boot · PostgreSQL
+`C# / .NET Core` · `CQRS` · `DDD` · `AWS S3`
 
 ---
 
-# 📚 Actualmente aprendiendo
+## 🚀 Proyectos destacados
 
-- Arquitectura Backend Avanzada
-- Testing & TDD
-- Go (Golang) & Gin
-- Clean Code & DDD
+### 🏋️ Mora — Sistema de gestión de gimnasio *(en producción)*
+Sistema vendido e implementado para un cliente real. Gestiona alumnos, profesores y planes.
 
----
+- Backend en **Go**, desarrollado en equipo.
+- Hoy en desarrollo la **versión 2.0** con nuevos módulos.
 
-# 🎯 Objetivo Profesional
-
-Busco oportunidades donde pueda seguir creciendo como desarrollador backend, participar en proyectos desafiantes y aportar valor construyendo software escalable y mantenible.
+`Go` · `PostgreSQL` · `Docker`
 
 ---
 
-# 📫 Contacto
+### 💬 GoCord — Clon de Discord en Go
+Chat en tiempo real con canales de texto y voz. *Repositorio privado, disponible a pedido.*
 
-- GitHub: [github.com/joaquinBrassinne](https://github.com/joaquinBrassinne)
-- LinkedIn: [linkedin.com/in/joaquinbrassinne/](https://www.linkedin.com/in/joaquinbrassinne/)
-- Email: joaquinBrassinne.dev@gmail.com
+- API REST + autenticación, chat por **WebSockets** y voz con **WebRTC** (SFU con Pion).
+- Cliente de terminal con **Bubble Tea** y cliente web estático.
+- SQL plano sin ORM, inyección de dependencias manual, contenedorizado con Docker + Redis.
+
+`Go` · `WebSockets` · `WebRTC` · `Redis` · `Docker`
 
 ---
 
-# ⚡ Sobre mí
+### 🔐 Alma Fitness — Control de acceso para gimnasio
+Sistema de gestión de socios e ingresos para un gimnasio local.
 
-Me gusta aprender construyendo proyectos reales, resolver problemas complejos y seguir mejorando constantemente como desarrollador.
+- Control de acceso centralizado por **DNI**.
+- Carga de comprobantes de pago para validar la vigencia de la membresía.
+- Pasé de un modelo de stock a uno de **cargos (charges)** para simplificar la administración diaria.
+
+`Java` · `Spring Boot` · `MySQL` · `Docker`
+
+---
+
+### 🧘 Gestión para estudio de Pilates
+Administración de turnos y pagos para un centro de Pilates.
+
+- Asignación de clases por día, horario y profesor con **cupos limitados**.
+- Relación entre usuarios, planes, clases y profesores.
+- Carga de comprobantes y panel del alumno con su cronograma semanal.
+
+`NestJS` · `TypeScript` · `PostgreSQL`
+
+---
+
+### 🦿 Pasos Firmes — API para banco de prótesis
+Proyecto colaborativo en **No Country**.
+
+- **Líder técnico** del equipo backend (7 integrantes).
+- Diseño del modelo relacional y documentación completa con Swagger.
+
+`Java` · `Spring Boot` · `PostgreSQL`
+
+---
+
+## 📈 En qué estoy ahora
+
+- Profundizando en **Go** para backend: concurrencia, arquitectura y testing.
+- Aplicando **TDD** y DDD en proyectos propios.
+- Buscando mi próximo rol como **Backend Developer** (Go o Java).
