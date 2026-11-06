@@ -61,7 +61,7 @@ Construyo APIs y sistemas backend pensando en que escalen y que se puedan manten
 
 ## 💼 Experiencia
 
-**Software Developer — N5 Now** *(remoto, ene–mar 2026)*  
+**Summer Experience - Software Developer — N5 Now** *(remoto, ene–mar 2026)*  
 Backend de mensajería sobre WhatsApp Business API: integración de Twilio e Infobip, y un background job que consulta el estado de los proveedores para enrutar al que esté activo. Arquitectura CQRS + DDD con audios en AWS S3.  
 `C# / .NET Core` · `CQRS` · `DDD` · `AWS S3`
 
